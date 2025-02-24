@@ -57,5 +57,14 @@ Spring Boot – Framework for building scalable backend services
 
 ## App Screenshots
 
-![Screens 1](images/screens1-4.png)
-![Screens 5-8](images/screens5-8.png)
+![Screens 1](images/InicioScreen.png)
+![Screens 2](images/LoginScreen.png)
+![Screens 3](images/SignUpScreen.png)
+![Screens 4](images/MainScreen.png)
+![Screens 5](images/ZoneScreen.png)
+![Screens 6](images/QRLectureScreen.png)
+![Screens 7](images/QRVerificationScreen.png)
+![Screens 8](images/QuestionsScreen.png)
+![Screens 9](images/ReviewScreen.png)
+![Screens 10](images/MapaScreen.png)
+
